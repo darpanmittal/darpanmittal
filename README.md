@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darpan Kumar Mittal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer  |  leetcode | Computer Engineering  </h3>
 
 <p align="left"> <img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg" /> </p>
 
